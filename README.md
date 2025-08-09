@@ -4,7 +4,7 @@ Compare FIT activites and routes on the same plot, elevation is normalized to th
 <img width="1492" height="684" alt="image" src="https://github.com/user-attachments/assets/1ede1cbe-4d3c-4fe3-b3b0-4ca988f32a81" />
 
 ## Usage
-Install [fitparse](https://pypi.org/project/fitparse/).
+Install [fitparse](https://pypi.org/project/fitparse/) and [matplotlib](https://pypi.org/project/matplotlib/) on your system.
 
 Then execute with your .fit files as the arguments:
 ```
